@@ -6,6 +6,6 @@ I am a passionate software developer. I know C#, ASP.NET, JavaScript, HTML&CSS, 
 
 - 🔭 I’m currently working on [Karadeniz Holding](https://www.karadenizholding.com/)
 - 📝 I regularly write articles on [my blog](http://www.serbestcihangir.com/)
-- 🌱 I’m currently learning AI, ML, LLM, MATLAB and Python.
+- 🌱 I’m currently learning AI, ML, LLM and Python.
 - 💬 Ask me about any issue that you might have with structural engineering, construction, SAP2000, ETABS, AutoCAD, Advance Steel, Revit, IdeStatik and software development.   
 - 📫 You can reach me by serbestcihangir@gmail.com
